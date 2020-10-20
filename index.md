@@ -4,7 +4,7 @@
 
 ### Personal projects
 
-[The Panda Preedicament](/https://raven-insights.itch.io/the-panda-predicament)
+[The Panda Predicament](https://raven-insights.itch.io/the-panda-predicament)
 <img src="images/pandaPic.png?raw=true"/>
 
 ---
